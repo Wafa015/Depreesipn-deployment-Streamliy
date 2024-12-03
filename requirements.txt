@@ -132,7 +132,6 @@ pyparsing
 PySocks
 python-dateutil
 pytz
-pywin32
 PyYAML
 pyzmq
 referencing
